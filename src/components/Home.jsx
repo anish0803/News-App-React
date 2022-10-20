@@ -29,21 +29,13 @@ function Home(props) {
             <li>Contact-us</li>
           </a>
         </ul>
-        <div className="searchInput">
+        {/* <div className="searchInput">
           <input type="text" class="css-input" placeholder="enter news here" onChange={(e) => {
               props.getfun(e.target.value);
             }} />
           <button className="inputSubmit">Submit</button>
-        </div>
+        </div> */}
       
-
-        <div className="heading">
-        <h1 className="heading1">Great a wonderfull today!</h1>
-        <h3 className="heading3">© Copyright. singhanish124.com. All Rights Reservered. Terms | Site Map</h3>
-        </div>
-        
-
-
       </div>
     </>
   );

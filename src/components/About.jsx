@@ -124,6 +124,10 @@ function About() {
         <h3>Thanks For Visiting Our Site</h3>
         <h1>Please Visit Again My Website!</h1>
       </div>
+      <div className="heading">
+        <h1 className="heading1">Great a wonderfull today!</h1>
+        <h3 className="heading3">© Copyright. singhanish124.com. All Rights Reservered. Terms | Site Map</h3>
+        </div>
     </div>
   );
 }
