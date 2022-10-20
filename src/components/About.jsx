@@ -113,28 +113,7 @@ function About() {
           among court officials during the late Han dynasty (second and third
           centuries AD). Between 713 and 734, the Kaiyuan Za Bao ("Bulletin of
           the Court") of the Chinese Tang Dynasty published government news; it
-          was handwritten on silk and read by government officials.[58] The
-          court created a Bureau of Official Reports (Jin Zhouyuan) to
-          centralize news distribution for the court.[59] Newsletters called
-          ch'ao pao continued to be produced and gained wider public circulation
-          in the following centuries.[60] In 1582 there was the first reference
-          to privately published newssheets in Beijing, during the late Ming
-          Dynasty.[61][62] Japan had effective communications and postal
-          delivery networks at several points in its history, first in 646 with
-          the Taika Reform and again during the Kamakura period from 1183 to
-          1333. The system depended on hikyaku, runners, and regularly spaced
-          relay stations. By this method, news could travel between Kyoto and
-          Kamakura in 5–7 days. Special horse-mounted messengers could move
-          information at the speed of 170 kilometers per day.[55][63] The
-          Japanese shogunates were less tolerant than the Chinese government of
-          news circulation.[58] The postal system established during the Edo
-          period was even more effective, with average speeds of 125–150 km/day
-          and express speed of 200 km/day. This system was initially used only
-          by the government, taking private communications only at exorbitant
-          prices. Private services emerged and in 1668 established their own
-          nakama (guild). They became even faster, and created an effective
-          optical telegraphy system using flags by day and lanterns and mirrors
-          by night.[55]
+  
         </p>
 
         <h4>

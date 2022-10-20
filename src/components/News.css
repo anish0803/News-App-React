@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+ padding: 0;
+ box-sizing: border-box;   
+}
+
+
+
+  .articles{
+  
+    background-color:black;
+    color: tomato;
+
+  }
+
+  .articles img{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+  }
+
+ 
+
+
