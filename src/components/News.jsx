@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios';
+import Like from "./Like";
+import Comment from "./Comment";
 import './News.css'
 
 export default function News(props) {
@@ -36,6 +38,10 @@ export default function News(props) {
                         <p>{item.content}</p>
                         <p>{item.author}</p>
                         <p>{item.publishedAt}</p>
+                        <div>
+                          <Like />
+                          <Comment />
+                        </div>
                    </div>
 
                 )

@@ -1,24 +1,25 @@
-*{
-    margin: 0;
- padding: 0;
- box-sizing: border-box;   
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-
-
-  .articles{
-  
-    background-color:black;
-    color: tomato;
-
-  }
-
-  .articles img{
-    width: 400px;
-    height: 400px;
-    margin: 10px;
-  }
-
+.articles {
+  /* background-color:black; */
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
  
+  border: 2px solid red;
+  color: tomato;
+  padding: 20px;
+  margin: auto;
+  width: 80%;
+}
 
-
+.articles img {
+  /* background-color:blue; */
+  width: 400px;
+  height: 400px;
+  /* margin: 10px; */
+}
