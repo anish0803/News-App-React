@@ -27,12 +27,13 @@
     margin: auto;
     padding: 10px;
     text-align: center;
-    text-decoration: none;
+    /* text-decoration: none; */
     list-style: none;
 }
 
 .headerNav a{
     color: white;
+    text-decoration: none;
     
 }
 

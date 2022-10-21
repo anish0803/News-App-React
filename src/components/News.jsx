@@ -7,6 +7,7 @@ import './News.css'
 export default function News(props) {
 
     const [data,setData] = useState([]);
+    const [search, setSearch] = useState("");
 
     useEffect(()=>{
         axios
@@ -23,10 +24,14 @@ export default function News(props) {
    <>
                     <div className="searchInput">
           <input type="text" class="css-input" placeholder="enter news here" onChange={(e) => {
-              props.getfun(e.target.value);
+              props.setSearch(e.target.value);
             }} />
+
+
+            
           <button className="inputSubmit">Submit</button>
         </div>
+
 
         {data.map((item,index)=>{
                 return(
@@ -34,7 +39,7 @@ export default function News(props) {
                         <h1>{item.title}</h1>
                         <h3>{item.description}</h3>
                         <img src={item.urlToImage} alt="?" />
-                        {/* <a href="/">{item.url}</a> */}
+                        <a href={item.url}>Read More</a>
                         <p>{item.content}</p>
                         <p>{item.author}</p>
                         <p>{item.publishedAt}</p>

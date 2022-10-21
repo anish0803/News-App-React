@@ -6,7 +6,7 @@ function About() {
     <div className="name">
       <div>
         <h2>About Us!</h2>
-        <p>
+        <p className="aboutpara">
         News is information about current events. This may be provided through
           many different media: word of mouth, printing, postal systems,
           broadcasting, electronic communication, or through the testimony of
